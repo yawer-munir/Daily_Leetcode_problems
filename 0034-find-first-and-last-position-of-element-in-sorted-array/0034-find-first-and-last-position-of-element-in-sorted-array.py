@@ -9,10 +9,10 @@ class Solution:
                 if nums[mid]==target:
                     ans = mid
                     end = mid-1
-                elif nums[mid]<target:
-                    start = mid+1
-                elif nums[mid]>target:
+                elif target<nums[mid]:
                     end = mid-1
+                else:
+                    start = mid+1
             return ans
         def last(start,end):
             ans = -1
@@ -21,10 +21,10 @@ class Solution:
                 if nums[mid]==target:
                     ans = mid
                     start = mid+1
-                elif nums[mid]<target:
-                    start = mid+1
-                elif nums[mid]>target:
+                elif target<nums[mid]:
                     end = mid-1
+                else:
+                    start = mid+1
             return ans
         result = []
         result.append(first(start,end))
