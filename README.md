@@ -12,12 +12,14 @@
 ## Array
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0724-find-pivot-index](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Binary Search
 |  |
 | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Sorting
