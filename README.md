@@ -42,4 +42,16 @@
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0374-guess-number-higher-or-lower) |
+## Stack
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
