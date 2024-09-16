@@ -4,6 +4,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0001-two-sum) |
 | [0782-jewels-and-stones](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
@@ -12,6 +13,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0001-two-sum) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0724-find-pivot-index](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0724-find-pivot-index) |
