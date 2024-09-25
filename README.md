@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0001-two-sum) |
+| [0219-contains-duplicate-ii](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0782-jewels-and-stones](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0782-jewels-and-stones) |
 ## String
 |  |
@@ -19,6 +20,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0204-count-primes) |
+| [0219-contains-duplicate-ii](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0724-find-pivot-index](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
