@@ -21,6 +21,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0204-count-primes) |
 | [0219-contains-duplicate-ii](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
@@ -90,4 +91,8 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 <!---LeetCode Topics End-->
