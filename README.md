@@ -27,6 +27,7 @@
 | [0219-contains-duplicate-ii](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0724-find-pivot-index](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2350-find-closest-number-to-zero](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2350-find-closest-number-to-zero) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
