@@ -8,6 +8,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0219-contains-duplicate-ii](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0782-jewels-and-stones](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0782-jewels-and-stones) |
+| [1256-rank-transform-of-an-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## String
 |  |
@@ -27,6 +28,7 @@
 | [0219-contains-duplicate-ii](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0724-find-pivot-index](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1256-rank-transform-of-an-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2350-find-closest-number-to-zero](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2350-find-closest-number-to-zero) |
@@ -45,6 +47,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1256-rank-transform-of-an-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
