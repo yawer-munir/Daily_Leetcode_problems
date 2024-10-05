@@ -62,6 +62,7 @@
 | [0048-rotate-image](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0204-count-primes) |
+| [0231-power-of-two](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0231-power-of-two) |
 ## Interactive
 |  |
 | ------- |
@@ -107,4 +108,12 @@
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0048-rotate-image) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0231-power-of-two) |
+## Recursion
+|  |
+| ------- |
+| [0231-power-of-two](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
