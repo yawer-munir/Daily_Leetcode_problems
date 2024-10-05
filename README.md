@@ -22,6 +22,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0048-rotate-image](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0048-rotate-image) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0204-count-primes) |
@@ -58,6 +59,7 @@
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0069-sqrtx) |
 | [0204-count-primes](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0204-count-primes) |
 ## Interactive
@@ -101,4 +103,8 @@
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
