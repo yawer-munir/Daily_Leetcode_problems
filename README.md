@@ -31,6 +31,7 @@
 | [0724-find-pivot-index](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
 | [2350-find-closest-number-to-zero](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2350-find-closest-number-to-zero) |
@@ -72,6 +73,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
 | ------- |
@@ -82,6 +84,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Enumeration
 |  |
 | ------- |
@@ -116,4 +119,8 @@
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0231-power-of-two) |
+## Simulation
+|  |
+| ------- |
+| [1802-number-of-students-unable-to-eat-lunch](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 <!---LeetCode Topics End-->
