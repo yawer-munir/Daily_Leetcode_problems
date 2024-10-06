@@ -1,13 +1,21 @@
 class Solution:
     def countStudents(self, students: List[int], sandwiches: List[int]) -> int:
-        while sandwiches[0] in students:
-            if students[0]==sandwiches[0]:
-                students.pop(0)
-                sandwiches.pop(0)
+        sandwich_lovers = students.count(1)
+        burger_lovers = students.count(0)
+        for i in range(len(sandwiches)):
+            food = sandwiches[i]
+            # sandwich
+            if food == 1:
+                # no sandwich lovers left
+                if not sandwich_lovers:
+                    return burger_lovers
+                sandwich_lovers -= 1
+            # burger
             else:
-                temp = students.pop(0)
-                students.append(temp) 
-            if not sandwiches:
-                break 
-        return len(students)     
+                # no burger lovers left
+                if not burger_lovers:
+                    return sandwich_lovers
+                burger_lovers -= 1
+        return 0
+ 
         
