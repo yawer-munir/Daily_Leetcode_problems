@@ -122,10 +122,15 @@
 ## Recursion
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0231-power-of-two) |
 ## Simulation
 |  |
 | ------- |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2195-time-needed-to-buy-tickets) |
+## Linked List
+|  |
+| ------- |
+| [0206-reverse-linked-list](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0206-reverse-linked-list) |
 <!---LeetCode Topics End-->
