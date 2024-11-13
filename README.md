@@ -23,6 +23,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0048-rotate-image](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0048-rotate-image) |
+| [0088-merge-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0204-count-primes](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0204-count-primes) |
@@ -52,6 +53,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0088-merge-sorted-array) |
 | [0414-third-maximum-number](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0414-third-maximum-number) |
 | [1256-rank-transform-of-an-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
 | [2210-find-target-indices-after-sorting-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2210-find-target-indices-after-sorting-array) |
@@ -140,4 +142,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1013-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0088-merge-sorted-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0088-merge-sorted-array) |
 <!---LeetCode Topics End-->
