@@ -31,6 +31,7 @@
 | [0219-contains-duplicate-ii](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0238-product-of-array-except-self) |
 | [0414-third-maximum-number](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0414-third-maximum-number) |
+| [0682-baseball-game](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0724-find-pivot-index) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1256-rank-transform-of-an-array](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1256-rank-transform-of-an-array) |
@@ -80,6 +81,7 @@
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
+| [0682-baseball-game](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
@@ -133,6 +135,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2195-time-needed-to-buy-tickets) |
 ## Linked List
