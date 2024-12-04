@@ -16,6 +16,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0782-jewels-and-stones](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0953-reverse-only-letters) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Array
 |  |
 | ------- |
@@ -82,6 +83,7 @@
 | [0225-implement-stack-using-queues](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0232-implement-queue-using-stacks) |
 | [0682-baseball-game](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0682-baseball-game) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 ## Design
 |  |
