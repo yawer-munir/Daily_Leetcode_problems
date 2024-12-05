@@ -17,6 +17,7 @@
 | [0782-jewels-and-stones](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0782-jewels-and-stones) |
 | [0953-reverse-only-letters](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0953-reverse-only-letters) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [2470-removing-stars-from-a-string](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
 ## Array
 |  |
 | ------- |
@@ -85,6 +86,7 @@
 | [0682-baseball-game](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
+| [2470-removing-stars-from-a-string](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
 ## Design
 |  |
 | ------- |
@@ -140,6 +142,7 @@
 | [0682-baseball-game](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/0682-baseball-game) |
 | [1802-number-of-students-unable-to-eat-lunch](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/1802-number-of-students-unable-to-eat-lunch) |
 | [2195-time-needed-to-buy-tickets](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2195-time-needed-to-buy-tickets) |
+| [2470-removing-stars-from-a-string](https://github.com/yawer-munir/Daily_Leetcode_problems/tree/master/2470-removing-stars-from-a-string) |
 ## Linked List
 |  |
 | ------- |
